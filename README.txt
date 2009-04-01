@@ -59,4 +59,4 @@ Change log:
 --------------------------------------------------------------------
 
 Cheers,
-ashbb (Satoshi Asakawa)
+Satoshi Asakawa aka ashbb
